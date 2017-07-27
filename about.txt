@@ -1,0 +1,2 @@
+This program was written by using C++ and it was developed by using Visual Studio 2013. This application uses Gaphical User Environment
+and you can use this code to create the same thing as CLI application.
